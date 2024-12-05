@@ -1,8 +1,1 @@
-# Simple Media Player
-
-A basic web-based media player created by Claude.
-
-## Features
-- Upload and play video/audio files
-- Play/Pause controls
-- Volume adjustment
+IyBTaW1wbGUgTWVkaWEgUGxheWVyDQoNCkEgYmFzaWMgd2ViLWJhc2VkIG1lZGlhIHBsYXllciBjcmVhdGVkIGJ5IENsYXVkZS4NCg0KIyMgRmVhdHVyZXMNCi0gVXBsb2FkIGFuZCBwbGF5IHZpZGVvL2F1ZGlvIGZpbGVzDQotIFBsYXkvUGF1c2UgY29udHJvbHMNCi0gVm9sdW1lIGFkanVzdG1lbnQ=
